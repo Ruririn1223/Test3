@@ -209,6 +209,10 @@ void main() {
 			printf("Левее минимального %d четных элементов\n", cnt);
 		}
 		break;
+		break;
+		break;
+		break;
+		break;
 		case 9:
 		{
 			aaaa();
