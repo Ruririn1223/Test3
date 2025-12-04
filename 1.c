@@ -2,6 +2,12 @@
 #include <Windows.h>
 
 #define NUM_ELEMENTS 10
+#define NUM_ELEMENTS 10
+#define NUM_ELEMENTS 10
+#define NUM_ELEMENTS 10
+#define NUM_ELEMENTS 10
+#define NUM_ELEMENTS 10
+#define NUM_ELEMENTS 10
 
 int arr[NUM_ELEMENTS];
 int n = 0;
